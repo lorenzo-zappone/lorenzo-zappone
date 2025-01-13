@@ -1,8 +1,8 @@
 # Lorenzo Zappone
 
-## 👨‍💻 Data Engineer | Data Analyst | Business Intelligence Specialist
+## 👨‍💻 Data Engineer | Data Analyst 
 
-🌎 Based in Joinville, Santa Catarina, Brasil
+🌎 Based in Brazil
 
 ### 🚀 About Me
 
@@ -18,18 +18,6 @@
 - **Languages:** Python, SQL
 - **Databases & Data Lake:** PostgreSQL, BigQuery, S3
 - **Data Visualization:** Metabase
-
-### 💼 Professional Experience
-
-#### Data Engineer at Analisou (Jan 2024 - Present)
-- Project management across multiple initiatives
-- Data extraction, analysis, and visualization
-- Creation of interactive dashboards using Metabase
-- Tailoring experiences to meet unique business needs
-
-#### Data Analyst at Analisou (Jun 2023 - Dec 2023)
-- Extracting, analyzing, and visualizing data from various sources
-- Creating interactive dashboards for strategic insights
 
 ### 🎓 Education
 
