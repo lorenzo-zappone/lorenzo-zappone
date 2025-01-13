@@ -14,10 +14,10 @@
 
 ### 🛠️ Tech Stack
 
-- **Main Stack:** Airflow, Airbyte, DBT, Spark
-- **Languages:** Python, SQL
-- **Databases & Data Lake:** PostgreSQL, BigQuery, S3
-- **Data Visualization:** Metabase
+- **Main Stack:** Airflow, Airbyte, DBT, Databricks
+- **Languages:** Python, SQL, Spark
+- **Databases & Data Lake:** PostgreSQL, BigQuery, S3, Delta
+- **Data Visualization:** Metabase, Power BI
 
 ### 🎓 Education
 
