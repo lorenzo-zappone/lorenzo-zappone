@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Main Stack:** Airflow, Airbyte, DBT, Databricks
+- **Main Stack:** Airflow, Airbyte, Databricks, MS Fabric
 - **Languages:** Python, SQL, Spark
 - **Databases & Data Lake:** PostgreSQL, BigQuery, S3, Delta
 - **Data Visualization:** Metabase, Power BI
